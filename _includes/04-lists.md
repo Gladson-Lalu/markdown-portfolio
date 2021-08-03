@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Riding 🚴‍♂️
+  - Bike 🏍️
+  - Car 🚙
+  - Cycle 🚴
+- Coding 💻
+- Talking 🗣️
+
